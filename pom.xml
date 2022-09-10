@@ -82,9 +82,9 @@
 
         <!-- MCJava PacketLib -->
         <dependency>
-            <groupId>me.liuli</groupId>
-            <artifactId>MCProtocolLib</artifactId>
-            <version>1.12.2-1</version>
+             <groupId>com.github.steveice10</groupId>
+             <artifactId>mcprotocollib</artifactId>
+             <version>1.19-1</version>
         </dependency>
         <dependency>
             <groupId>com.github.steveice10</groupId>
@@ -96,8 +96,8 @@
         <!-- Bedrock PacketLib -->
         <dependency>
             <groupId>com.nukkitx.protocol</groupId>
-            <artifactId>bedrock-v428</artifactId>
-            <version>2.6.3-SNAPSHOT</version>
+            <artifactId>bedrock-v545</artifactId>
+            <version>2.9.11-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
 
